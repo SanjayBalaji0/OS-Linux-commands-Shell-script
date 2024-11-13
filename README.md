@@ -1,9 +1,10 @@
 # OS-Linux-commands-Shell-scripting
-Operating systems Lab exercise
 # Linux commands-Shell scripting
-Linux commands-Shell scripting
+
 ### Name : Sanjay Balaji S
 ### Register no : 212223240149
+### Date : 17.8.24
+
 # AIM:
 To practice Linux Commands and Shell Scripting
 
